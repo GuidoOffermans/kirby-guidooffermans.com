@@ -1,18 +1,24 @@
 # System files
 # ------------
-
 Icon
 .DS_Store
 
 # Temporary files
 # ---------------
-
 /media/*
 !/media/index.html
 
+# Vendor Items
+# ---------------
+/kirby
+/vendor/**
+
+# Content
+# ---------------
+/content/*
+
 # Lock files
 # ---------------
-
 .lock
 
 # Editors
