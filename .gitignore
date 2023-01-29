@@ -11,7 +11,7 @@ Icon
 # Vendor Items
 # ---------------
 /kirby
-/vendor/**
+/vendor
 
 # Content
 # ---------------
