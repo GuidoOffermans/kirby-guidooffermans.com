@@ -31,3 +31,5 @@ jobs:
           **/.git*
           **/.git/**
           **/.github/**
+          DOCKER_ENV
+          output.log
