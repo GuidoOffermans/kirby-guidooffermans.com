@@ -6,7 +6,7 @@ use Kirby\Cms\App;
 $base = dirname(__DIR__);
 
 require $base . '/vendor/autoload.php';
-Env::load(__DIR__);
+Env::load($base);
 
 $kirby = new App([
     'roots' => [
