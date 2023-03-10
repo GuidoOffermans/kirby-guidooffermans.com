@@ -2,7 +2,7 @@
 
 return [
 	//	Panel
-	'install' => env('PANEL_INSTALL', false),
+	'install' => true,
 	'slug'    => env('KIRBY_PANEL_SLUG', 'panel'),
 
 	//	Debug
